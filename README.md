@@ -1,11 +1,7 @@
-# Catroid3D
+# Catroid3D+PLUS (attempt at improvement)
 
 Experimental spike of a 3D version of Pocket Code / Catroid for Android. 
-
-Note that this is just a very preliminary / throw-away proof of concept.
-
-If you are interested in contributing and/or working on this 3D version, contact wolfgang.slany@catrobat.org
-
+[Original](
 Licence: https://catrob.at/licenses
 
 APK: https://github.com/Catrobat/Catroid3D/releases
